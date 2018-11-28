@@ -1,1 +1,3 @@
 install_env "https://github.com/yyuu/pyenv.git" "master"
+install_plugin "pyenv-virtualenv" "https://github.com/pyenv/pyenv-virtualenv.git" "master"
+install_plugin "pyenv-update" "https://github.com/pyenv/pyenv-update.git" "master"
